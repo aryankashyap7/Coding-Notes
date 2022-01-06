@@ -22,9 +22,9 @@ cin.tie(NULL);
 }
 ```
 
-## BOILERPLATE CODE
+## JSON CODE FOR THE ABOVE SNIPPET
 
-```python
+```json
 	"Competitive Programming AK": {
 		"prefix": "cp",
 		"body": [
