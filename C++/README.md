@@ -1,4 +1,4 @@
-All the notes in this repository aren't written by [me](github.com/aryankashyap7). Its just a collection of resouces I found on the internet.
+Some of the notes in this repository aren't written by [me](github.com/aryankashyap7). Its just a collection of resouces I found on the internet.
 
 # Contributers
 
